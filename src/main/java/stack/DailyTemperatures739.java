@@ -1,8 +1,5 @@
 package stack;
 
-import java.util.ArrayList;
-import java.util.List;
-
 class DailyTemperatures739 {
 
     public int[] dailyTemperatures(int[] temperatures) {
